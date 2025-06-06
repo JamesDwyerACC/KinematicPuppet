@@ -56,5 +56,5 @@ See the [LICENSE](./LICENSE) file for details.
 
 Questions, improvements, or adaptations welcome.
 
-Contact: james.dwyer[at]qut.edu.au  
+Contact: james.dwyer@qut.edu.au
 Pull requests encouraged.
